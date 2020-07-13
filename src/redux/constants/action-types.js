@@ -1,0 +1,2 @@
+export const PUSH_SWITCHER_A = "PUSH_SWITCHER_A";
+export const PUSH_SWITCHER_B = "PUSH_SWITCHER_B";

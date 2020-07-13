@@ -1,0 +1,15 @@
+.switcher{
+  border: 3px solid rgb(202, 75, 75);
+  background-color: #fff;
+  border-radius: 2px;
+  width: 6rem;
+  padding: 5% 10%;
+  color: rgb(202, 75, 75);
+  cursor: pointer;
+  outline: 0;
+}
+
+.switcher:hover{
+  background-color: rgb(202, 75, 75);
+  color: #fff;
+}
